@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Mac Classic.tmTheme/Mac Classic.tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme"
+}

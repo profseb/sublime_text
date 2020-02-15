@@ -1,0 +1,945 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"aq",
+						"aquadradar"
+					],
+					[
+						"onmou",
+						"onmouseout\tAttr"
+					],
+					[
+						"onmuoseo",
+						"onmouseover\tAttr"
+					],
+					[
+						"suc",
+						"success"
+					],
+					[
+						"th",
+						"thead\tTag"
+					],
+					[
+						"a",
+						"a\tTag"
+					],
+					[
+						"par",
+						"participantes"
+					],
+					[
+						"id",
+						"id_tema"
+					],
+					[
+						"id_",
+						"id_participante"
+					],
+					[
+						"border",
+						"border-collapse\tproperty"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"co",
+						"color\tproperty"
+					],
+					[
+						"su",
+						"summary\tTag"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"q",
+						"q_score"
+					],
+					[
+						"in",
+						"intv_points"
+					],
+					[
+						"FF",
+						"FFFF8C"
+					],
+					[
+						"iline",
+						"inline-block\tdisplay"
+					],
+					[
+						"le",
+						"letter-spacing\tproperty"
+					],
+					[
+						"question",
+						"question_text"
+					],
+					[
+						"tran",
+						"transition\tproperty"
+					],
+					[
+						"json",
+						"json_perguntas"
+					],
+					[
+						"max-",
+						"max-height\tproperty"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"marg",
+						"margin-bottom\tproperty"
+					],
+					[
+						"pad",
+						"padding-left\tproperty"
+					],
+					[
+						"list",
+						"list-style-position\tproperty"
+					],
+					[
+						"sp",
+						"space-between\talign-content"
+					],
+					[
+						"fle",
+						"flex-direction\tproperty"
+					],
+					[
+						"n",
+						"n_50"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"alig",
+						"align-items\tproperty"
+					],
+					[
+						"paddin",
+						"padding-bottom\tproperty"
+					],
+					[
+						"sh",
+						"sha1"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/DDE-21/Dropbox (Code in Action)/GitHub/IFMA/info20/JavaScript/aula zero.html",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (2).txt",
+				"/C/Apache24/htdocs/quizsnct/admin/sql/quizsnct_aws.sql",
+				"/D/laravel/blog/app/Post.php",
+				"/D/laravel/blog/resources/views/posts/edit.blade.php",
+				"/D/laravel/blog/resources/views/posts/show.blade.php",
+				"/D/laravel/blog/resources/views/posts/create.blade.php",
+				"/D/laravel/blog/resources/views/posts/index.blade.php",
+				"/D/laravel/blog/routes/web.php",
+				"/D/laravel/blog/resources/views/layouts/app.blade.php",
+				"/D/laravel/blog/app/Http/Controllers/PostController.php",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura.txt",
+				"/D/Workspace/sublime_text/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Apache24/htdocs/index.php",
+				"/D/laravel/blog/.env",
+				"/D/laravel/blog/database/factories/PostImageFactory.php",
+				"/D/laravel/blog/database/migrations/2019_10_26_215647_create_post_images_table.php",
+				"/C/PHP/php.ini",
+				"/D/laravel/blog/public/index.php",
+				"/D/laravel/blog/database/migrations/2019_10_26_215258_create_posts_table.php",
+				"/D/laravel/blog/app/PostImage.php",
+				"/D/laravel/blog/database/factories/PostFactory.php",
+				"/D/laravel/blog/database/seeds/PostsTableSeeder.php",
+				"/D/laravel/blog/database/seeds/DatabaseSeeder.php",
+				"/D/laravel/blog/composer.json",
+				"/C/Apache24/htdocs/quizsnct/admin/temas.php",
+				"/C/Apache24/htdocs/quizsnct/admin/respostas.php",
+				"/C/Apache24/htdocs/quizsnct/admin/perguntas.php",
+				"/C/Apache24/htdocs/quizsnct/admin/config.php",
+				"/C/Apache24/htdocs/quizsnct/assets/js/confetti.js",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/noticiasdetimon/admin/js/action.system.js",
+				"/C/Apache24/htdocs/quizsnct/assets/js/quizsnct.js",
+				"/C/Apache24/htdocs/quizsnct/assets/css/style.css",
+				"/C/Apache24/htdocs/quizsnct/admin/lib/DB.class.php",
+				"/C/Apache24/htdocs/quizsnct/ranking.php",
+				"/C/Apache24/htdocs/quizsnct/admin/classes/Quiz.class.php",
+				"/C/Apache24/htdocs/quizsnct/quiz.php",
+				"/C/Apache24/htdocs/quizsnct/index.php",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/noticiasdetimon/admin/js/action.application.js",
+				"/C/Users/DDE-21/Desktop/blink.html",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (1).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Nov_19.txt",
+				"/C/Users/DDE-21/Downloads/TrabalhoMaravilhoso.sql",
+				"/C/Apache24/htdocs/quizsnct/assets/style.css",
+				"/C/Apache24/htdocs/quizsnct/admin/includes/header.php",
+				"/C/Apache24/htdocs/quizsnct/admin/includes/head.php",
+				"/C/Apache24/htdocs/quizsnct/admin/index.php",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Semantic-UI/Semantic-UI-CSS-master/semanticui.html",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Bulma/bulma-master/css/bulma.css",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/MDL/Trabalho MDL.html",
+				"/C/Users/DDE-21/Desktop/media.cpp",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Bulma/Bulma.html",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Skeleton-2.0.4/css/normalize.css",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/classes/controller/ApplicationPrint.controller.php",
+				"/C/Users/DDE-21/Desktop/uri.html",
+				"/C/Apache24/htdocs/quizsnct/style.css",
+				"/C/Apache24/htdocs/quizsnct/hashbrake.php",
+				"/C/Apache24/htdocs/quizsnct/config.php"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"l",
+					"exc",
+					"endsection",
+					"bcmath",
+					"bcm",
+					"bc",
+					"$(",
+					"url",
+					"color:white",
+					"24px",
+					"24",
+					"    ",
+					"fcia",
+					"farm",
+					"50",
+					"21,",
+					"33,7",
+					"extension",
+					"bcma",
+					"mydb",
+					"demo-blog__posts",
+					"som",
+					"some",
+					"mdl-card__title-text",
+					"form",
+					"meupal",
+					"meta",
+					"direction",
+					"mdl-card",
+					"demo-blog",
+					"coffe",
+					"view",
+					"error_repor"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"byId(",
+					"contabilidade"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ti",
+						"title\tTag"
+					],
+					[
+						"su",
+						"sub\tTag"
+					],
+					[
+						"cel",
+						"cellspacing\tAttr"
+					],
+					[
+						"coni",
+						"confirmacao"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"aq",
+						"aquadradar"
+					],
+					[
+						"onmou",
+						"onmouseout\tAttr"
+					],
+					[
+						"onmuoseo",
+						"onmouseover\tAttr"
+					],
+					[
+						"suc",
+						"success"
+					],
+					[
+						"th",
+						"thead\tTag"
+					],
+					[
+						"a",
+						"a\tTag"
+					],
+					[
+						"par",
+						"participantes"
+					],
+					[
+						"id",
+						"id_tema"
+					],
+					[
+						"id_",
+						"id_participante"
+					],
+					[
+						"border",
+						"border-collapse\tproperty"
+					],
+					[
+						"mar",
+						"margin\tproperty"
+					],
+					[
+						"co",
+						"color\tproperty"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"q",
+						"q_score"
+					],
+					[
+						"in",
+						"intv_points"
+					],
+					[
+						"FF",
+						"FFFF8C"
+					],
+					[
+						"iline",
+						"inline-block\tdisplay"
+					],
+					[
+						"le",
+						"letter-spacing\tproperty"
+					],
+					[
+						"question",
+						"question_text"
+					],
+					[
+						"tran",
+						"transition\tproperty"
+					],
+					[
+						"json",
+						"json_perguntas"
+					],
+					[
+						"max-",
+						"max-height\tproperty"
+					],
+					[
+						"class",
+						"className"
+					],
+					[
+						"marg",
+						"margin-bottom\tproperty"
+					],
+					[
+						"pad",
+						"padding-left\tproperty"
+					],
+					[
+						"list",
+						"list-style-position\tproperty"
+					],
+					[
+						"sp",
+						"space-between\talign-content"
+					],
+					[
+						"fle",
+						"flex-direction\tproperty"
+					],
+					[
+						"n",
+						"n_50"
+					],
+					[
+						"max",
+						"max-width\tproperty"
+					],
+					[
+						"flex",
+						"flex-grow\tproperty"
+					],
+					[
+						"alig",
+						"align-items\tproperty"
+					],
+					[
+						"paddin",
+						"padding-bottom\tproperty"
+					],
+					[
+						"sh",
+						"sha1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/DDE-21/Desktop/exemplo.html",
+					"settings":
+					{
+						"buffer_size": 782,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/DDE-21/Desktop/index.html",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/IFMA/Caxias 2020/Aulas/PPW/Exemplos/ifma.html",
+				"/C/Users/DDE-21/Desktop/poo.html",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/IFMA/Caxias 2020/Aulas/PPW/Exemplos/code01.xml",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/IFMA/Caxias 2020/Aulas/PPW/Exemplos/aluno.xml",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/IFMA/Esp. Inf. na Educ/Disciplinas/FUNDAMENTOS EM EDUCAÇÃO/Atividade 2 - resumo.txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (9).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (10).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (5).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Fev_20.txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/.htaccess",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/noticia.php",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/templates/lista_noticia.tpl",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/classes/controller/Application.controller.php",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (8).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (7).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (6).txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/Diário de Balsas/Financeiro/EXTRATOS BANCO INTER/2019/Extrato.txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/IFMA/Esp. Inf. na Educ/Disciplinas/FUNDAMENTOS EM EDUCAÇÃO/Questão 10.txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (4).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (3).txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (2).txt",
+				"/C/Apache24/htdocs/fatura/planilha.txt",
+				"/C/Apache24/htdocs/fatura/index.php",
+				"/C/Apache24/htdocs/fatura/parceladas.txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Jan_20.txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura (1).txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/GitHub/IFMA/projetos-tópicos/portal-topicos/New Folder/home.html",
+				"/C/Users/DDE-21/Desktop/calculadora.html",
+				"/C/Apache24/htdocs/quizsnct/admin/app/login.php",
+				"/C/Apache24/htdocs/quizsnct/admin/includes/header.php",
+				"/C/Apache24/htdocs/quizsnct/admin/perguntas.php",
+				"/C/Apache24/htdocs/quizsnct/admin/index.php",
+				"/C/Apache24/htdocs/quizsnct/admin/classes/Quiz.class.php",
+				"/C/Apache24/htdocs/quizsnct/admin/config.php",
+				"/C/Apache24/htdocs/quizsnct/admin/app/dashboard.php",
+				"/C/Apache24/htdocs/quizsnct/others/hashbrake.php",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/IFMA/RSC/RSC-III/CHECKLIST.txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/GitHub/IFMA/info20/JavaScript/jquery.html",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/admin/Classes/Application/list.Publicidades.php",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Dez_19.txt",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura.txt",
+				"/D/material-design/material-components-web-codelabs/mdc-103/starter/home.html",
+				"/D/material-design/material-components-web-codelabs/mdc-103/starter/home.scss",
+				"/D/material-design/material-components-web-codelabs/mdc-103/starter/_variables.scss",
+				"/D/material-design/material-components-web-codelabs/mdc-103/starter/_common.scss",
+				"/D/material-design/material-components-web-codelabs/mdc-103/starter/login.scss",
+				"/D/material-design/material-components-web-codelabs/mdc-101/starter/package.json",
+				"/D/material-design/material-components-web-codelabs/mdc-102/starter/home.js",
+				"/D/material-design/material-components-web-codelabs/mdc-102/starter/home.scss",
+				"/D/material-design/material-components-web-codelabs/mdc-101/starter/index.html",
+				"/D/material-design/material-components-web-codelabs/mdc-101/starter/login.scss",
+				"/D/material-design/material-components-web-codelabs/mdc-101/starter/login.js",
+				"/D/material-design/material-components-web-codelabs/mdc-102/starter/home.html",
+				"/C/Users/DDE-21/Desktop/lista.html",
+				"/C/Users/DDE-21/Downloads/diariodebalsascodigo.txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/templates/HTML.tpl",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Próxima_Fatura(1).txt",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/GitHub/IFMA/info20/JavaScript/eventos e funcoes.html",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/templates/pagina_cliente.tpl",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/templates/includes/header.tpl",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/GitHub/IFMA/info20/JavaScript/aula zero.html",
+				"/C/Apache24/htdocs/quizsnct/admin/sql/quizsnct_aws.sql",
+				"/D/laravel/blog/app/Post.php",
+				"/D/laravel/blog/resources/views/posts/edit.blade.php",
+				"/D/laravel/blog/resources/views/posts/show.blade.php",
+				"/D/laravel/blog/resources/views/posts/create.blade.php",
+				"/D/laravel/blog/resources/views/posts/index.blade.php",
+				"/D/laravel/blog/routes/web.php",
+				"/D/laravel/blog/resources/views/layouts/app.blade.php",
+				"/D/laravel/blog/app/Http/Controllers/PostController.php",
+				"/D/Workspace/sublime_text/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/C/Apache24/htdocs/index.php",
+				"/D/laravel/blog/.env",
+				"/D/laravel/blog/database/factories/PostImageFactory.php",
+				"/D/laravel/blog/database/migrations/2019_10_26_215647_create_post_images_table.php",
+				"/C/PHP/php.ini",
+				"/D/laravel/blog/public/index.php",
+				"/D/laravel/blog/database/migrations/2019_10_26_215258_create_posts_table.php",
+				"/D/laravel/blog/app/PostImage.php",
+				"/D/laravel/blog/database/factories/PostFactory.php",
+				"/D/laravel/blog/database/seeds/PostsTableSeeder.php",
+				"/D/laravel/blog/database/seeds/DatabaseSeeder.php",
+				"/D/laravel/blog/composer.json",
+				"/C/Apache24/htdocs/quizsnct/admin/temas.php",
+				"/C/Apache24/htdocs/quizsnct/admin/respostas.php",
+				"/C/Apache24/htdocs/quizsnct/assets/js/confetti.js",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/noticiasdetimon/admin/js/action.system.js",
+				"/C/Apache24/htdocs/quizsnct/assets/js/quizsnct.js",
+				"/C/Apache24/htdocs/quizsnct/assets/css/style.css",
+				"/C/Apache24/htdocs/quizsnct/admin/lib/DB.class.php",
+				"/C/Apache24/htdocs/quizsnct/ranking.php",
+				"/C/Apache24/htdocs/quizsnct/quiz.php",
+				"/C/Apache24/htdocs/quizsnct/index.php",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/noticiasdetimon/admin/js/action.application.js",
+				"/C/Users/DDE-21/Desktop/blink.html",
+				"/C/Users/DDE-21/Downloads/OUROCARD_PLATINUM_MASTERCARD-Nov_19.txt",
+				"/C/Users/DDE-21/Downloads/TrabalhoMaravilhoso.sql",
+				"/C/Apache24/htdocs/quizsnct/assets/style.css",
+				"/C/Apache24/htdocs/quizsnct/admin/includes/head.php",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Semantic-UI/Semantic-UI-CSS-master/semanticui.html",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Bulma/bulma-master/css/bulma.css",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/MDL/Trabalho MDL.html",
+				"/C/Users/DDE-21/Desktop/media.cpp",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Bulma/Bulma.html",
+				"/C/Users/DDE-21/Downloads/Trabalhos INFO 20/Skeleton-2.0.4/css/normalize.css",
+				"/C/Users/DDE-21/Dropbox (Code in Action)/diariodebalsas/classes/controller/ApplicationPrint.controller.php",
+				"/C/Users/DDE-21/Desktop/uri.html",
+				"/C/Apache24/htdocs/quizsnct/style.css",
+				"/C/Apache24/htdocs/quizsnct/hashbrake.php",
+				"/C/Apache24/htdocs/quizsnct/config.php"
+			],
+			"find":
+			{
+				"height": 90.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" ",
+					".",
+					"coyo",
+					"kenzo",
+					"22,33",
+					"22",
+					"44,6",
+					"67,00",
+					"67",
+					"magazine",
+					"83,88",
+					"getUltimasNoti",
+					"getUltims",
+					"80,15",
+					"sort",
+					"caxias",
+					"claro",
+					"recarga",
+					"viacao",
+					"luised",
+					"13,0",
+					"10,00",
+					"100",
+					"50,00",
+					"10,00",
+					"plano",
+					"20,00",
+					"DenilsonLucasDaSi",
+					" R$ 205,28",
+					"93",
+					"francis",
+					"plano",
+					"deni",
+					"85,",
+					"\";\n",
+					"l",
+					"exc",
+					"endsection",
+					"bcmath",
+					"bcm",
+					"bc",
+					"$(",
+					"url",
+					"color:white",
+					"24px",
+					"24",
+					"    ",
+					"fcia",
+					"farm",
+					"50",
+					"21,",
+					"33,7",
+					"extension",
+					"bcma",
+					"mydb",
+					"demo-blog__posts",
+					"som",
+					"some",
+					"mdl-card__title-text",
+					"form",
+					"meupal",
+					"meta",
+					"direction",
+					"mdl-card",
+					"demo-blog",
+					"coffe",
+					"view",
+					"error_repor"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"",
+					"byId(",
+					"contabilidade"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/DDE-21/Desktop/exemplo.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 782,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										343,
+										343
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 196.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 90.0
+			},
+			"input":
+			{
+				"height": 90.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,664,166,126,822",
+			"project": "",
+			"replace":
+			{
+				"height": 176.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
